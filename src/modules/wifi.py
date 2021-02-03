@@ -14,4 +14,4 @@ class Wifi:
         print('network config:', wlan.ifconfig())
 
 # TODO: Implement scan wifi method to choose the correct password from the config dict
-Wifi().do_connect(WIFI_CREDS.keys()[0],WIFI_CREDS.values()[0])
+Wifi().do_connect(list(WIFI_CREDS.keys())[0],list(WIFI_CREDS.values())[0])
