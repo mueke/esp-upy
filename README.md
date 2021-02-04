@@ -2,7 +2,7 @@
 
 A try to simplify micropyhton usage focused on asyncio with modular setup
 
-First I want to thank [https://github.com/peterhinch/micropython-async/commits?author=peterhinch] for his awesome work and all the other enthusiasts.
+First I want to thank Peter Hinch [https://github.com/peterhinch/micropython-async] for his awesome work and all the other enthusiasts.
 
 I copied some of his examples and adapted them to run on esp.
 
